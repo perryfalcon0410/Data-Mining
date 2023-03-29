@@ -1,5 +1,5 @@
 # Data-Mining
-Full report can be seen in the pdf file
+The presentation is in https://github.com/perryfalcon0410/Data-Mining/blob/main/Banking%20Data%20Mining.pdf file
 
 ## Motivation
 ### Neural Network Architecture Optimization
@@ -111,7 +111,7 @@ Since most of the poutcome is 'unknown' any attempt to replace them will bring a
 ## Propose Solution
 ![image](https://user-images.githubusercontent.com/93825495/228472813-58204eab-5588-4cf2-9350-ea13b4ac84ab.png)
 
-Note: Logistic Regression, SVM, Random Forest source code is found in banking data mining.ipynb. NN architecture can be found in neural-network-optimization-with-tabu-search.ipynb
+Note: Logistic Regression, SVM, Random Forest source code is found in [banking data mining.ipynb](https://github.com/perryfalcon0410/Data-Mining/blob/main/Banking%20Data%20Mining.ipynb). NN architecture can be found in [neural-network-optimization-with-tabu-search.ipynb](https://github.com/perryfalcon0410/Data-Mining/blob/main/neural-network-optimization-with-tabu-search.ipynb)
 
 ## Evaluation
 
