@@ -106,8 +106,30 @@ We will assign unknown value with cellular since the number of cellular is much 
 Since most of the poutcome is 'unknown' any attempt to replace them will bring a lot of BIAS so we'll discard the column
 
 ### "y" column
-![image](https://user-images.githubusercontent.com/93825495/228468159-55364845-79dd-4213-aeb3-0960aef3d9c7.png)
+![image](https://user-images.githubusercontent.com/93825495/228470365-c27093ea-6db4-4a0f-9ed8-334d7bfddc4e.png)
 
+## Propose Solution
+![image](https://user-images.githubusercontent.com/93825495/228472813-58204eab-5588-4cf2-9350-ea13b4ac84ab.png)
+
+## Evaluation
+
+|               | Precision | F1 | Accuracy | Recall | 
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Best NN Architecture  | 0.922  | 0.711  | 0.682 | 0.807 |
+| Logistic Regression  | 0.838  | 0.534| 0.399  | 0.805  |
+| SVM  | 0.829 | 0.527  | 0.386 | 0.83 |
+| Random Forest  | 0.997  | 0.986 | 0.998 | 0.975 |
+
+## Conclusion
+
+For this dataset, after some preprocessing, the number of features is still really small for a neural network solution
+
+→ Therefore, Random Forest out-perform Neural Network.
+
+In fact, Random Forest is more commonly used in these kind of problems because its light-weight and can perform exceptionally.
+
+However, Tabu Search for Neural Network Architecture Optimization have a big advantage in terms of scalability
+⇒ If the problems are more complex, the number of features is huge ⇒ This method could potentially perform well.
 
 
 
