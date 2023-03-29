@@ -57,19 +57,19 @@ train.csv
 Note: The code is in Banking Data Mining.ipynb
 ### Convert Numerical to Categorical data
 #### Age
-![image](https://user-images.githubusercontent.com/93825495/228464782-543c2bec-34e9-4f7f-bed0-74cecf2dbaf7.png)
+![image](https://user-images.githubusercontent.com/93825495/228469213-bbab321a-fd10-4410-8a68-d8d737030889.png)
 
 #### Customer's balance
-![image](https://user-images.githubusercontent.com/93825495/228464970-17bc7342-6701-4f5c-9fab-090c1339f241.png)
+![image](https://user-images.githubusercontent.com/93825495/228469354-06ece4a1-5ab0-4fba-80c5-f299b849cc3b.png)
 
 #### contacts performed
-![image](https://user-images.githubusercontent.com/93825495/228465057-0c757404-3f15-4f69-972a-cd5eb5ac3e80.png)
+![image](https://user-images.githubusercontent.com/93825495/228469827-11da580f-1269-40c4-9f38-10c0aca09c02.png)
 
 #### pdays 
-![image](https://user-images.githubusercontent.com/93825495/228465565-1e45af76-f8bc-41ec-b3c3-acea14858e64.png)
+![image](https://user-images.githubusercontent.com/93825495/228470035-815db72b-bbd8-4b2f-aa33-0a8b199bc7a1.png)
 
 #### Contacts performed before the campaign
-![image](https://user-images.githubusercontent.com/93825495/228465712-84251533-3b16-4ba7-9fc6-8c5e9f24373e.png)
+![image](https://user-images.githubusercontent.com/93825495/228470097-589dae73-5631-47cd-9d25-416fc82e6682.png)
 
 ### Treating Missing data
 ![image](https://user-images.githubusercontent.com/93825495/228466177-804b35a7-9d34-4301-aea4-7c83b58eeb1d.png)
