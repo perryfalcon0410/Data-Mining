@@ -54,7 +54,7 @@ train.csv
 ![image](https://user-images.githubusercontent.com/93825495/228465290-7ac282ae-e574-4300-9f6b-d13b709333da.png)
 
 ## EDA
-
+Note: The code is in Banking Data Mining.ipynb
 ### Convert Numerical to Categorical data
 #### Age
 ![image](https://user-images.githubusercontent.com/93825495/228464782-543c2bec-34e9-4f7f-bed0-74cecf2dbaf7.png)
