@@ -97,10 +97,12 @@ Housemaid job will be assign with primary education
 
 #### Contact
 ![image](https://user-images.githubusercontent.com/93825495/228467791-c050cf65-201a-4bcc-a772-d5fc6d354393.png)
+
 We will assign unknown value with cellular since the number of cellular is much higher
 
 #### poutcome
 ![image](https://user-images.githubusercontent.com/93825495/228468032-f2f2b4f5-6142-423f-8706-511aa6b40f3c.png)
+
 Since most of the poutcome is 'unknown' any attempt to replace them will bring a lot of BIAS so we'll discard the column
 
 ### "y" column
